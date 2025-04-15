@@ -4,6 +4,7 @@ import '../screens/Examination/examination_dashboard.dart';
 import '../screens/Examination/submit_grades.dart';
 import '../screens/Examination/update_grades.dart';
 import '../screens/Examination/result.dart';
+import '../screens/Purchase/purchasemain.dart';
 import 'home.dart'; // Import home screen
 import 'help.dart'; // Import help screen
 import 'profile.dart'; // Import profile screen
