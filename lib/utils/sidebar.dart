@@ -587,7 +587,7 @@ class _SidebarState extends State<Sidebar> with TickerProviderStateMixin {
                   ]),
 
                   // Purchase Module
-                                 _buildModuleWithToggle(
+                 _buildModuleWithToggle(
                   icon: Icons.shopping_cart,
                   title: 'Purchase',
                   isExpanded: _isPurchaseExpanded,
